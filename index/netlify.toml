@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to ="/Heart-Disease-Prediction-main/templates/index.html"
+status = 200
